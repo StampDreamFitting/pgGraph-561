@@ -1,0 +1,15 @@
+.git
+.reference
+.agents
+.codex
+.env
+**/.env
+.venv
+**/.venv
+target
+graph/target
+graph/fuzz/target
+sandbox/benchmark/datasets
+sandbox/benchmark/results
+sandbox/playground/.venv
+**/.DS_Store
